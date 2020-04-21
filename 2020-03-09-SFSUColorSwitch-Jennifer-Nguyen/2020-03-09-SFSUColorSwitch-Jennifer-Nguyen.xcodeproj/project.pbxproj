@@ -1,0 +1,341 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 50;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		F3EC4720241731BE0035C6AE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EC471F241731BE0035C6AE /* AppDelegate.swift */; };
+		F3EC4722241731BE0035C6AE /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EC4721241731BE0035C6AE /* SceneDelegate.swift */; };
+		F3EC4724241731BE0035C6AE /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F3EC4723241731BE0035C6AE /* ViewController.swift */; };
+		F3EC4727241731BE0035C6AE /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3EC4725241731BE0035C6AE /* Main.storyboard */; };
+		F3EC4729241731C10035C6AE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F3EC4728241731C10035C6AE /* Assets.xcassets */; };
+		F3EC472C241731C10035C6AE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F3EC472A241731C10035C6AE /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		F3EC471C241731BE0035C6AE /* 2020-03-09-SFSUColorSwitch-Jennifer-Nguyen.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "2020-03-09-SFSUColorSwitch-Jennifer-Nguyen.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		F3EC471F241731BE0035C6AE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		F3EC4721241731BE0035C6AE /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
+		F3EC4723241731BE0035C6AE /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		F3EC4726241731BE0035C6AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		F3EC4728241731C10035C6AE /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		F3EC472B241731C10035C6AE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		F3EC472D241731C10035C6AE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		F3EC4719241731BE0035C6AE /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		F3EC4713241731BE0035C6AE = {
+			isa = PBXGroup;
+			children = (
+				F3EC471E241731BE0035C6AE /* 2020-03-09-SFSUColorSwitch-Jennifer-Nguyen */,
+				F3EC471D241731BE0035C6AE /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		F3EC471D241731BE0035C6AE /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				F3EC471C241731BE0035C6AE /* 2020-03-09-SFSUColorSwitch-Jennifer-Nguyen.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		F3EC471E241731BE0035C6AE /* 2020-03-09-SFSUColorSwitch-Jennifer-Nguyen */ = {
+			isa = PBXGroup;
+			children = (
+				F3EC471F241731BE0035C6AE /* AppDelegate.swift */,
+				F3EC4721241731BE0035C6AE /* SceneDelegate.swift */,
+				F3EC4723241731BE0035C6AE /* ViewController.swift */,
+				F3EC4725241731BE0035C6AE /* Main.storyboard */,
+				F3EC4728241731C10035C6AE /* Assets.xcassets */,
+				F3EC472A241731C10035C6AE /* LaunchScreen.storyboard */,
+				F3EC472D241731C10035C6AE /* Info.plist */,
+			);
+			path = "2020-03-09-SFSUColorSwitch-Jennifer-Nguyen";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		F3EC471B241731BE0035C6AE /* 2020-03-09-SFSUColorSwitch-Jennifer-Nguyen */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = F3EC4730241731C10035C6AE /* Build configuration list for PBXNativeTarget "2020-03-09-SFSUColorSwitch-Jennifer-Nguyen" */;
+			buildPhases = (
+				F3EC4718241731BE0035C6AE /* Sources */,
+				F3EC4719241731BE0035C6AE /* Frameworks */,
+				F3EC471A241731BE0035C6AE /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "2020-03-09-SFSUColorSwitch-Jennifer-Nguyen";
+			productName = "2020-03-09-SFSUColorSwitch-Jennifer-Nguyen";
+			productReference = F3EC471C241731BE0035C6AE /* 2020-03-09-SFSUColorSwitch-Jennifer-Nguyen.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		F3EC4714241731BE0035C6AE /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 1130;
+				LastUpgradeCheck = 1130;
+				ORGANIZATIONNAME = "Jennifer Nguyen";
+				TargetAttributes = {
+					F3EC471B241731BE0035C6AE = {
+						CreatedOnToolsVersion = 11.3.1;
+					};
+				};
+			};
+			buildConfigurationList = F3EC4717241731BE0035C6AE /* Build configuration list for PBXProject "2020-03-09-SFSUColorSwitch-Jennifer-Nguyen" */;
+			compatibilityVersion = "Xcode 9.3";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = F3EC4713241731BE0035C6AE;
+			productRefGroup = F3EC471D241731BE0035C6AE /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				F3EC471B241731BE0035C6AE /* 2020-03-09-SFSUColorSwitch-Jennifer-Nguyen */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		F3EC471A241731BE0035C6AE /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3EC472C241731C10035C6AE /* LaunchScreen.storyboard in Resources */,
+				F3EC4729241731C10035C6AE /* Assets.xcassets in Resources */,
+				F3EC4727241731BE0035C6AE /* Main.storyboard in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		F3EC4718241731BE0035C6AE /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				F3EC4724241731BE0035C6AE /* ViewController.swift in Sources */,
+				F3EC4720241731BE0035C6AE /* AppDelegate.swift in Sources */,
+				F3EC4722241731BE0035C6AE /* SceneDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		F3EC4725241731BE0035C6AE /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F3EC4726241731BE0035C6AE /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		F3EC472A241731C10035C6AE /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				F3EC472B241731C10035C6AE /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		F3EC472E241731C10035C6AE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		F3EC472F241731C10035C6AE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++14";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		F3EC4731241731C10035C6AE /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "2020-03-09-SFSUColorSwitch-Jennifer-Nguyen/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nguyen.-020-03-09-SFSUColorSwitch-Jennifer-Nguyen";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		F3EC4732241731C10035C6AE /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				CODE_SIGN_STYLE = Automatic;
+				INFOPLIST_FILE = "2020-03-09-SFSUColorSwitch-Jennifer-Nguyen/Info.plist";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				PRODUCT_BUNDLE_IDENTIFIER = "com.nguyen.-020-03-09-SFSUColorSwitch-Jennifer-Nguyen";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		F3EC4717241731BE0035C6AE /* Build configuration list for PBXProject "2020-03-09-SFSUColorSwitch-Jennifer-Nguyen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3EC472E241731C10035C6AE /* Debug */,
+				F3EC472F241731C10035C6AE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		F3EC4730241731C10035C6AE /* Build configuration list for PBXNativeTarget "2020-03-09-SFSUColorSwitch-Jennifer-Nguyen" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				F3EC4731241731C10035C6AE /* Debug */,
+				F3EC4732241731C10035C6AE /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = F3EC4714241731BE0035C6AE /* Project object */;
+}
